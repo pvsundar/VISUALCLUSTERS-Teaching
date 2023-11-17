@@ -1,3 +1,8 @@
+streamlit
+numpy
+pandas
+matplotlib
+scikit-learn
 absl-py==2.0.0
 altair==5.1.2
 altgraph==0.17.4
